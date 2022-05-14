@@ -9,20 +9,25 @@
 ## **_About me:_**
 ```
 Name: Die 💀
-Age: 10-30 👾
+Age: 20 👾
 Country: Russia 🌆
 I love programming, Here you can find my projects ;) 💻
-My favorit: Python 🐍
+My favorit: Python, node js 🐍
 I'm new to programming, so don't hit too hard 🥺
 ```
 
 
 ### **_Language & Tool_**
 #####
-[![Flutter](https://img.shields.io/badge/Python-a40900?style=for-the-badge&logo=Python)](#) [![Flutter](https://img.shields.io/badge/Django-a40900?style=for-the-badge&logo=Django)](#)
-[![Flutter](https://img.shields.io/badge/C%2B%2B-a40900?style=for-the-badge&logo=C%2B%2B)](#) [![Flutter](https://img.shields.io/badge/C%23-a40900?style=for-the-badge&logo=dotnet)](#)
-[![Flutter](https://img.shields.io/badge/Java-a40900?style=for-the-badge&logo=Java)](#) [![Flutter](https://img.shields.io/badge/MongoDB-a40900?style=for-the-badge&logo=mongodb)](#)
-[![Flutter](https://img.shields.io/badge/sqlite-a40900?style=for-the-badge&logo=sqlite)](#) [![Flutter](https://img.shields.io/badge/MySQL-a40900?style=for-the-badge&logo=Mysql)](#)
+[![Flutter](https://img.shields.io/badge/Python-a40900?style=for-the-badge&logo=Python)](#)
+[![Flutter](https://img.shields.io/badge/Node.js-a40900?style=for-the-badge&logo=Node.js)](#)
+[![Flutter](https://img.shields.io/badge/C%2B%2B-a40900?style=for-the-badge&logo=C%2B%2B)](#) 
+[![Flutter](https://img.shields.io/badge/C%23-a40900?style=for-the-badge&logo=dotnet)](#)
+[![Flutter](https://img.shields.io/badge/Java-a40900?style=for-the-badge&logo=Java)](#) 
+[![Flutter](https://img.shields.io/badge/Django-a40900?style=for-the-badge&logo=Django)](#)
+[![Flutter](https://img.shields.io/badge/MongoDB-a40900?style=for-the-badge&logo=mongodb)](#)
+[![Flutter](https://img.shields.io/badge/sqlite-a40900?style=for-the-badge&logo=sqlite)](#)
+[![Flutter](https://img.shields.io/badge/MySQL-a40900?style=for-the-badge&logo=Mysql)](#)
 
 ### **_Stats:_**
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DotBlood)](https://github.com/DotBlood)
