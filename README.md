@@ -11,7 +11,7 @@
 Name: Die 💀
 Age: 21 👾
 Country: Russia 🌆
-My favorit: node js 🐍
+My favorit: TS\JS
 ```
 
 
@@ -19,14 +19,16 @@ My favorit: node js 🐍
 #####
 [![Flutter](https://img.shields.io/badge/Python-a40900?style=for-the-badge&logo=Python)](#)
 [![Flutter](https://img.shields.io/badge/Node.js-a40900?style=for-the-badge&logo=Node.js)](#)
+[![Flutter](https://img.shields.io/badge/JavaScript-a40900?style=for-the-badge&logo=JavaScript)](#)
+[![Flutter](https://img.shields.io/badge/TypeScript-a40900?style=for-the-badge&logo=TypeScript)](#)
 [![Flutter](https://img.shields.io/badge/C%2B%2B-a40900?style=for-the-badge&logo=C%2B%2B)](#) 
 [![Flutter](https://img.shields.io/badge/C%23-a40900?style=for-the-badge&logo=dotnet)](#)
-[![Flutter](https://img.shields.io/badge/Java-a40900?style=for-the-badge&logo=Java)](#) 
-[![Flutter](https://img.shields.io/badge/Django-a40900?style=for-the-badge&logo=Django)](#)
+[![Flutter](https://img.shields.io/badge/Java-a40900?style=for-the-badge&logo=Oracle)](#) 
+[![Flutter](https://img.shields.io/badge/Express-a40900?style=for-the-badge&logo=express)](#)
 [![Flutter](https://img.shields.io/badge/MongoDB-a40900?style=for-the-badge&logo=mongodb)](#)
 [![Flutter](https://img.shields.io/badge/sqlite-a40900?style=for-the-badge&logo=sqlite)](#)
 [![Flutter](https://img.shields.io/badge/MySQL-a40900?style=for-the-badge&logo=Mysql)](#)
-[![Flutter](https://img.shields.io/badge/Postgres-a40900?style=for-the-badge&logo=Postgres)](#)
+[![Flutter](https://img.shields.io/badge/Postgres-a40900?style=for-the-badge&logo=Postgresql)](#)
 
 ### **_Stats:_**
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DotBlood)](https://github.com/DotBlood)
@@ -36,7 +38,7 @@ My favorit: node js 🐍
 ---
 <br/>
 
-### **_Thank you for your attention goodbye!_**
+### **_Thank you for your attention, goodbye!_**
 ``` color.red
   oooooooooo.                 .        oooooooooo.  oooo                            .o8  
   `888'   `Y8b              .o8        `888'   `Y8b `888                           "888  
