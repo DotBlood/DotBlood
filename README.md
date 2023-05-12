@@ -9,11 +9,9 @@
 ## **_About me:_**
 ```
 Name: Die 💀
-Age: 20 👾
+Age: 21 👾
 Country: Russia 🌆
-I love programming, Here you can find my projects ;) 💻
-My favorit: Python, node js 🐍
-I'm new to programming, so don't hit too hard 🥺
+My favorit: node js 🐍
 ```
 
 
@@ -28,6 +26,7 @@ I'm new to programming, so don't hit too hard 🥺
 [![Flutter](https://img.shields.io/badge/MongoDB-a40900?style=for-the-badge&logo=mongodb)](#)
 [![Flutter](https://img.shields.io/badge/sqlite-a40900?style=for-the-badge&logo=sqlite)](#)
 [![Flutter](https://img.shields.io/badge/MySQL-a40900?style=for-the-badge&logo=Mysql)](#)
+[![Flutter](https://img.shields.io/badge/Postgres-a40900?style=for-the-badge&logo=Postgres)](#)
 
 ### **_Stats:_**
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DotBlood)](https://github.com/DotBlood)
