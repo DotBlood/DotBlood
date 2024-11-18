@@ -8,8 +8,8 @@
 
 ## **_About me:_**
 ```
-Name: Die 💀
-Age: 21 👾
+Name: Anatoly 💀
+Age: 23 👾
 Country: Russia 🌆
 My favorit: TS\JS
 ```
