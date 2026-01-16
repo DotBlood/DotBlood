@@ -5,11 +5,11 @@
 <br>
 
 <p align="center">
-  <a href="https://t.me/+oi2uMar4ngc5MTdi" style="display: inline-block;">
+  <a href="https://github.com/DotBlood?tab=repositories" style="display: inline-block;">
     <img src="https://img.shields.io/badge/My_Works-282828?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://t.me/+YQEllY-_kVU3YWVi"  style="display: inline-block;">
+  <a href="https://t.me/+oi2uMar4ngc5MTdi"  style="display: inline-block;">
     <img src="https://img.shields.io/badge/Telegram-282828?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 
