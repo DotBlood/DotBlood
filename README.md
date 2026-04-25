@@ -9,9 +9,9 @@
     <img src="https://img.shields.io/badge/My_Works-282828?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://t.me/+oi2uMar4ngc5MTdi"  style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Telegram-282828?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
+  <!--<a href=""  style="display: inline-block;">-->
+    <!-- <img src="https://img.shields.io/badge/Telegram-282828?style=for-the-badge&logo=telegram&logoColor=white" /> -->
+  <!-- </a> -->
 
   <a href="mailto:support@tvelr.com"  style="display: inline-block;">
     <img src="https://img.shields.io/badge/Email_Me-282828?style=for-the-badge&logo=gmail&logoColor=white" />
