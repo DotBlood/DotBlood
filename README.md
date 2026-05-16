@@ -7,16 +7,7 @@
 <p align="center">
   <a href="https://github.com/DotBlood?tab=repositories" style="display: inline-block;">
     <img src="https://img.shields.io/badge/My_Works-282828?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <!-- <a href=""  style="display: inline-block;">
-     <img src="https://img.shields.io/badge/Telegram-282828?style=for-the-badge&logo=telegram&logoColor=white" /> 
-  </a>-->
-
-  <a href="mailto:support@tvelr.com"  style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Email_Me-282828?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
+  </a>  
 </p>
 
 
@@ -36,16 +27,9 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DotBlood&show_icons=true&theme=gruvbox&icon_color=fabd2f&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DotBlood&layout=compact&theme=gruvbox&hide_border=true" />
-</p>
-
-<br>
-
 <dev align="center"> 
   <pre>
-    <code>
+    <code align="center">
     oooooooooo.                 .        oooooooooo.  oooo                            .o8  
     `888'   `Y8b              .o8        `888'   `Y8b `888                           "888  
      888      888  .ooooo.  .o888oo       888     888  888   .ooooo.   .ooooo.   .oooo888  
